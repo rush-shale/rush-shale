@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rush-shale
 - Welcome to my Github Profile 
-- 🌱 I’m currently learning!
 - 📫 How to reach me
 - Email:Hinoyogjohnrushel@gmail.com
 - Facebook:[ John Rushel Hinoyog](https://www.facebook.com/rushelgalantis.85)
