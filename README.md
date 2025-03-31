@@ -4,7 +4,9 @@ Welcome to my GitHub profile!
 
 ## 🔹 How to reach me
 📧 Email: Hinoyogjohnrushel@gmail.com
+
 📘 Facebook: https://www.facebook.com/rushelgalantis.85
+
 📸 Instagram: https://www.instagram.com/hushh__rushh/
 
 ## 📊 GitHub Stats
