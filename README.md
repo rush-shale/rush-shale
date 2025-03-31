@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [rush-shale]
+# Hi there! 👋 I'm rush-shale
 
 Welcome to my GitHub profile! 
 
