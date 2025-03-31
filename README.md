@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @rush-shale
-- Welcome to my Github Profile. 
-- 📫 How to reach me
-- Email:Hinoyogjohnrushel@gmail.com
-- Facebook:[ John Rushel Hinoyog](https://www.facebook.com/rushelgalantis.85)
-- insta: https://www.instagram.com/hushh__rushh/
+# Hi there! 👋 I'm [rush-shale]
 
+Welcome to my GitHub profile! 
 
-<!---
-rush-shale/rush-shale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔹 How to reach me
+📧 Email: Hinoyogjohnrushel@gmail.com
+📘 Facebook: https://www.facebook.com/rushelgalantis.85
+📸 Instagram: https://www.instagram.com/hushh__rushh/
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rush-shale&show_icons=true&theme=dark)
+
+Thank you for visiting my Github account! Red -LSTR! 😊
