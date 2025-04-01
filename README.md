@@ -12,4 +12,4 @@ Welcome to my GitHub profile!
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rush-shale&show_icons=true&theme=dark)
 
-Thank you for visiting my Github account! Red -LSTR! 😊
+Thank you for visiting my Github account! Red -LSTER! 😊
